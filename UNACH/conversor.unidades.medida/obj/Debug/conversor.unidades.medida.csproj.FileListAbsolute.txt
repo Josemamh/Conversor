@@ -1,0 +1,14 @@
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\bin\Debug\conversor.unidades.medida.exe.config
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.csprojResolveAssemblyReference.cache
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.INICIO.resources
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.Properties.Resources.resources
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.Longitud.resources
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.csproj.GenerateResource.Cache
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\bin\Debug\conversor.unidades.medida.exe
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\bin\Debug\conversor.unidades.medida.pdb
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.exe
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.pdb
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.Capacidad.resources
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.Peso.resources
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.Temperatura.resources
+C:\Users\chaki\Documents\Visual Studio 2015\Projects\UNACH\conversor.unidades.medida\obj\Debug\conversor.unidades.medida.Tiempo.resources
